@@ -14,3 +14,12 @@ I am driven by a singular goal: to develop cutting-edge engineering solutions th
 As I venture into the next phase of my career, I am eager to find opportunities that align with my unique blend of industry and academic experience. My portfolio showcases a journey of innovation, collaboration, and relentless pursuit of excellence. It reflects my dedication to leveraging technology to solve complex problems and my ability to thrive in environments that cherish new ideas and unconventional solutions to traditional challenges.
 
 If you are seeking a dynamic individual who brings a wealth of experience in engineering, software development, and AI, coupled with a proven track record of interdisciplinary collaboration and innovation, I invite you to explore my portfolio. Let's embark on a journey to redefine the boundaries of what's possible.
+
+# My Skills
+### Technical skills
+
+{%include technicalskills.md%}
+
+### Soft skills
+
+{%include softskills.md%}

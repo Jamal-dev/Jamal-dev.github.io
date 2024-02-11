@@ -1,0 +1,72 @@
+programming:
+ - title: Matlab
+   level: Advanced
+ - title: C++
+   level: Advanced
+ - title: C
+   level: Advanced
+ - title: Python
+   level: Advanced
+ - title: HTML5
+   level: Basic
+ - title: JavaScrpt
+   level: Basic
+ - title: Fortran
+   level: Intermediate
+ - title: C#
+   level: Intermediate
+ - title: VB.net
+   level: Intermediate
+ - title: PyQt/Qt
+   level: Intermediate
+ - title: LABView
+   level: Advanced
+
+numerics:
+ - title: FEM
+   level: Advanced
+ - title: CFD
+   level: Advanced
+ - title: Abaqus
+   level: Advanced
+ - title: UMAT
+   level: Advanced
+ - title: Ansys
+   level: Advanced
+
+aerospace:
+ - title: Aircraft designing
+   level: Advanced
+ - title: DATCOM++
+   level: Advanced
+ - title: AAA
+   level: Advanced
+ - title: Flight Simulator X
+   level: Intermediate
+ - title: Flight Gear
+   level: Intermediate
+ - title: XPLANE
+   level: Intermediate
+ - title: Flight dynamics and Control
+   level: Advanced
+
+robotics:
+ - title: ROS
+   level: Intermediate
+
+cad:
+ - title: PTC Creo
+   level: Advanced
+ - title: SolidWorks
+   level: Advanced
+ - title: AutoCad
+   level: Advanced
+ - title: CATIA
+   level: Basic
+
+
+soft:
+ - title: Writing
+   level: Intermediate
+ - title: Leadership
+   level: Intermediate
