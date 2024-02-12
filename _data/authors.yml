@@ -1,0 +1,11 @@
+Jamal Bhatti:
+  name        : "Jamal Bhatti"
+  bio         : "Let's talk about code! Reach out via the links below."
+  avatar      : "/assets/images/profile/profile-pic(5).png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "jamalahmed68@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://jamal-dev.github.io/"
