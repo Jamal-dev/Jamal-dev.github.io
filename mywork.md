@@ -1,6 +1,8 @@
 ---
-layout: post
+layout: categories_work
 title:  "My work!"
+author_profile: true
+author: Jamal Bhatti
 ---
 
 I have worked on [theoretical periodic microstructure][theoretical-microstructure].
