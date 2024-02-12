@@ -15,4 +15,5 @@ header:
   caption: "Photo credit: [Unsplash-JJ Ying](https://unsplash.com/photos/white-and-gray-optical-illusion-7JX0-bfiuxQ)"
 ---
 
-# Goal
+# Background
+Finding material parameters in strain energy function $\Psi$ is a challenging problem. There are two main approaches one is to use the strain-based approach and the other one is to use invariant-based approach. The invariant-based approach is more popular for hyperelastic materials.
