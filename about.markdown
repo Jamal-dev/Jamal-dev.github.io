@@ -23,3 +23,6 @@ If you are seeking a dynamic individual who brings a wealth of experience in eng
 ### Soft skills
 
 {%include softskills.md%}
+
+# CV
+[Download my CV](/assets/cv/bhatti_jamal_cv.pdf)
