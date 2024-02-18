@@ -43,4 +43,4 @@ The culmination of this research offers homogenized models for air spring bellow
 My master's thesis not only advances the field of vibration control but also showcases a novel application of numerical homogenization techniques. The tools and methodologies developed promise to enhance the design and simulation of air spring systems, offering a new horizon for engineers seeking to optimize vehicle comfort and stability.
 Making My Thesis Public
 
-For those interested in delving deeper into my research, I have made my thesis available online. [Download my Master's Thesis here](assets/master_thesis/bhatti_jamal_masters_thesis.pdf).
+For those interested in delving deeper into my research, I have made my thesis available online. [Download my Master's Thesis here](/assets/master_thesis/bhatti_jamal_masters_thesis.pdf).
