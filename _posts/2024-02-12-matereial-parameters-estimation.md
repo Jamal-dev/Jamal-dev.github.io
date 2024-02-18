@@ -16,4 +16,4 @@ header:
 ---
 
 # Background
-Finding material parameters in strain energy function $\Psi$ is a challenging problem. There are two main approaches one is to use the strain-based approach and the other one is to use invariant-based approach. The invariant-based approach is more popular for hyperelastic materials.
+Finding material parameters in strain energy function \(\Psi \) is a challenging problem. There are two main approaches one is to use the strain-based approach and the other one is to use invariant-based approach. The invariant-based approach is more popular for hyperelastic materials.
