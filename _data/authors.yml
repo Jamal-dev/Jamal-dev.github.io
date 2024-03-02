@@ -12,3 +12,6 @@ Jamal Bhatti:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jamal-bhatti-5a27b876/"
+    - label: "GitHub"  # Add your label here
+      icon: "fab fa-fw fa-github"  # Use the GitHub icon class from Font Awesome
+      url: "https://github.com/jamal-dev"  
